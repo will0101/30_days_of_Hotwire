@@ -3,5 +3,4 @@ Just something I'm doing while recovering from burnout. I decided I will only wo
 
 
 ## Todo List 
----
 Yes, a **basic To Do** list application. It demonstrates CRUDing in a Hotwire Environment.
