@@ -15,6 +15,7 @@ Strada: to allow our Rails apps to become Native apps.
 
 
 # ToDo
+![The ToDo application in action](/videos/ToDo.mov)
 Just a simple Rails application showcasing a ToDo application. I am recovering from burnout so naturally a ToDo app is the simplest way to get started. Hotwire is a really cool way to build Web Apps...I was using everything from React + Node, React w/ Rails API, Ember...none of them made total sense to me as to why we were't using something like Hotwire/Django to create applications. 
 
 ## Tech Used
