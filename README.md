@@ -3,7 +3,8 @@ Just something I'm doing while recovering from burnout. I decided I will only wo
 
 - Turbo: Reduces the amount of JS we must write.
   - Drive: for links and form submissions. Updates the page w/o a reload. 
-    - Intercepts all clicks on links and forms so the page doesn't realod. This is activated by default is Rails 7.
+    - Intercepts all clicks on links and forms so the page doesn't realod.
+      - This is activated by default is Rails 7.
     - It replaces everything within the `<body></body>`. 
   - Frames: Divides pages so that the context of our actions stay within that frame. 
     - Does not replace the entire body like Turbo Drive, only the part that changed. It reduces the amount of HTML you must send over the wire.
